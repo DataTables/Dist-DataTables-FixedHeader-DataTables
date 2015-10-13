@@ -11,3 +11,8 @@ table.fixedHeader-locked {
   position: absolute;
   background-color: white;
 }
+
+table.fixedHeader-locked {
+  position: absolute;
+  background-color: white;
+}

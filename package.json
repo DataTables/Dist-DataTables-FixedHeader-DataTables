@@ -5,6 +5,7 @@
     "files": [
         "css/fixedHeader.dataTables.css"
     ],
+    "style": "css/fixedHeader.dataTables.css",
     "keywords": [
         "fixed headers",
         "sticky",

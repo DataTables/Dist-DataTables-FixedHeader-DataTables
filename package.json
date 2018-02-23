@@ -3,7 +3,8 @@
     "version": "3.1.3",
     "description": "FixedHeader for DataTables ",
     "files": [
-        "css/**/*.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
     "style": "css/fixedHeader.dataTables.css",
     "keywords": [
@@ -29,5 +30,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/DataTables/Dist-DataTables-FixedHeader-DataTables.git"
-    }
+    },
+    "main": "js/fixedHeader.dataTables.js"
 }

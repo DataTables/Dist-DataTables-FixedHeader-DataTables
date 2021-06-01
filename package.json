@@ -3,6 +3,7 @@
     "description": "FixedHeader for DataTables with styling for [DataTables](https://datatables.net/)",
     "main": "js/fixedHeader.dataTables.js",
     "style": "css/fixedHeader.dataTables.css",
+    "types": "./types/fixedHeader.dataTables.d.ts",
     "version": "3.1.8",
     "files": [
         "css/**/*.css",

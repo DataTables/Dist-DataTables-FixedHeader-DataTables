@@ -17,9 +17,15 @@ For inclusion of this library using a standard `<script>` tag, rather than using
 npm install datatables.net-fixedheader-dt
 ```
 
+ES3 Syntax
 ```
 var $ = require( 'jquery' );
 var dt = require( 'datatables.net-fixedheader-dt' )( window, $ );
+```
+
+ES6 Syntax
+```
+import 'datatables.net-fixedheader-dt'
 ```
 
 ### bower

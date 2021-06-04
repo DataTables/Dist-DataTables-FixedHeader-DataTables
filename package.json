@@ -4,25 +4,25 @@
     "main": "js/fixedHeader.dataTables.js",
     "style": "css/fixedHeader.dataTables.css",
     "types": "./types/fixedHeader.dataTables.d.ts",
-    "version": "3.1.8",
+    "version": "3.1.9",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "FixedHeader",
- "Fixed Headers",
- "Sticky",
-                "Datatables",
+        "Fixed Headers",
+        "Sticky",
+        "Datatables",
         "jQuery",
         "table",
         "filter",
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": ">=3.1.8",
-        "datatables.net-dt": ">=1.10.24",
-        "jquery": ">=1.7"
+        "jquery": ">=1.7",
+        "datatables.net-dt": "^1.10.15",
+        "datatables.net-fixedheader": "3.1.9"
     },
     "moduleType": [
         "globals",

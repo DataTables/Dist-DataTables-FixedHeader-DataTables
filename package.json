@@ -12,17 +12,17 @@
     ],
     "keywords": [
         "FixedHeader",
-        "Fixed Headers",
-        "Sticky",
-        "Datatables",
+ "Fixed Headers",
+ "Sticky",
+                "Datatables",
         "jQuery",
         "table",
         "filter",
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": ">=3.2.0",
-        "datatables.net-dt": ">=1.11.3",
+        "datatables.net-fixedheader": ">=3.2.2",
+        "datatables.net-dt": ">=1.11.5",
         "jquery": ">=1.7"
     },
     "moduleType": [

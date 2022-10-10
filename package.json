@@ -2,12 +2,14 @@
     "name": "datatables.net-fixedheader-dt",
     "description": "FixedHeader for DataTables with styling for [DataTables](https://datatables.net/)",
     "main": "js/fixedHeader.dataTables.js",
+    "module": "js/fixedHeader.dataTables.mjs",
     "style": "css/fixedHeader.dataTables.css",
     "types": "./types/fixedHeader.dataTables.d.ts",
     "version": "3.2.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [

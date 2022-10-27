@@ -4,7 +4,7 @@
     "main": "js/fixedHeader.dataTables.js",
     "module": "js/fixedHeader.dataTables.mjs",
     "style": "css/fixedHeader.dataTables.css",
-    "types": "./types/fixedHeader.dataTables.d.ts",
+    "types": "./types/types.d.ts",
     "version": "3.2.4",
     "files": [
         "css/**/*.css",

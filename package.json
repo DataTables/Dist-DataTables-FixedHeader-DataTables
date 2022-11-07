@@ -5,7 +5,7 @@
     "module": "js/fixedHeader.dataTables.mjs",
     "style": "css/fixedHeader.dataTables.css",
     "types": "./types/types.d.ts",
-    "version": "3.2.4",
+    "version": "3.3.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -14,9 +14,9 @@
     ],
     "keywords": [
         "FixedHeader",
- "Fixed Headers",
- "Sticky",
-                "Datatables",
+        "Fixed Headers",
+        "Sticky",
+        "Datatables",
         "jQuery",
         "table",
         "filter",

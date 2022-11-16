@@ -4,7 +4,7 @@
 
 import $ from 'jquery';
 import DataTable from 'datatables.net-dt';
-import 'datatables.net-fixedheader';
+import FixedHeader from 'datatables.net-fixedheader';
 
 
 

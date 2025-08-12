@@ -10,8 +10,8 @@
         <license type="expression">MIT</license>
         <tags>FixedHeader  Fixed Headers  Sticky   Datatables jQuery table</tags>
         <dependencies>
-            <dependency id="datatables.net-fixedheader" version="3.2.4"/>
-            <dependency id="datatables.net-dt" version="1.12.1"/>
+            <dependency id="datatables.net-fixedheader" version="4.0.3"/>
+            <dependency id="datatables.net-dt" version="2.3.2"/>
         </dependencies>
         <contentFiles>
             <files include="**/*" buildAction="Content"/>
@@ -22,6 +22,10 @@
         <file src="js/fixedHeader.dataTables.js" target="contentFiles\any\any\wwwroot\js"/>
         <file src="js/fixedHeader.dataTables.min.js" target="content\Scripts"/>
         <file src="js/fixedHeader.dataTables.min.js" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/fixedHeader.dataTables.min.mjs" target="content\Scripts"/>
+        <file src="js/fixedHeader.dataTables.min.mjs" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/fixedHeader.dataTables.mjs" target="content\Scripts"/>
+        <file src="js/fixedHeader.dataTables.mjs" target="contentFiles\any\any\wwwroot\js"/>
         <file src="css/fixedHeader.dataTables.css" target="content\Content"/>
         <file src="css/fixedHeader.dataTables.css" target="contentFiles\any\any\wwwroot\css"/>
         <file src="css/fixedHeader.dataTables.min.css" target="content\Content"/>

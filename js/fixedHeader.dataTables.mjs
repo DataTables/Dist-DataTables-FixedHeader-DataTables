@@ -1,14 +1,11 @@
-/*! DataTables styling wrapper for FixedHeader
- * © SpryMedia Ltd - datatables.net/license
+/*! FixedHeader default styling 5.0.0-beta.1 for DataTables
+ * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
-import jQuery from 'jquery';
 import DataTable from 'datatables.net-dt';
 import FixedHeader from 'datatables.net-fixedheader';
-
-// Allow reassignment of the $ variable
-let $ = jQuery;
 
 
 
 export default DataTable;
+

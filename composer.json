@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-fixedheader-dt",
-    "description": "FixedHeader for DataTables with styling for [DataTables](https://datatables.net/)",
+    "description": "FixedHeader for DataTables with styling for DataTables",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-FixedHeader-DataTables"

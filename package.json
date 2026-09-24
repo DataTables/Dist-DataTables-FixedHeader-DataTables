@@ -38,9 +38,10 @@
     "exports": {
         ".": {
             "types": "./types/fixedHeader.dataTables.d.ts",
+            "style": "./css/fixedHeader.dataTables.css",
             "import": "./js/fixedHeader.dataTables.mjs",
-            "default": "./js/fixedHeader.dataTables.mjs",
-            "require": "./js/fixedHeader.dataTables.js"
+            "require": "./js/fixedHeader.dataTables.js",
+            "default": "./js/fixedHeader.dataTables.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
